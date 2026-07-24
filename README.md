@@ -34,8 +34,8 @@ Performed ETL to restore data integrity and prepare the model:
 ---
 
 ## Business Insights:
-- Apple Iphpne 14 is the top selling product while colgate tootthpaste is at the bottom.
-- Net sales kept declining right from 2020 to 2022 from where it incresed till 2023 to again decrease sharply from 2023 to 2024.
+- Apple Iphone 14 is the top selling product while colgate toothpaste is at the bottom.
+- Net sales kept declining right from 2020 to 2022 from where it increased till 2023 to again decrease sharply from 2023 to 2024.
 - Discount value was highest during summer sale and lowest during Diwali
 - Analysis of the Sales by City chart reveals that Delhi is the primary revenue driver, significantly outperforming other urban centers.
 - 'Clothing' and 'Electronics' categories consistently generate the highest transaction volumes;
