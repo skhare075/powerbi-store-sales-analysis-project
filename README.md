@@ -45,7 +45,7 @@ Performed ETL to restore data integrity and prepare the model:
 
 ---
 
-## Suggetsions:
+## Suggestions:
 - Suggest performing a "Frequently Bought Together" analysis. For example, if people in Delhi buy Electronics, do they also buy specific Accessories? This helps in cross-selling.
 - Recommend adding a Trend Line or a Forecasting Model in the next version of the dashboard to predict sales for the next 3 months based on historical data.
 - Since Delhi is the leader, suggest a "Local Hero" promotion to maintain dominance, while testing "Expansion Discounts" in lower-performing cities like Kanpur to increase market share.
