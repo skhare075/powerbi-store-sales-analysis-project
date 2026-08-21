@@ -1,5 +1,5 @@
 # Project Overview:
-- A Retail store business with a variety of products wants to analyze its sales performance, customer purchasing behavior, and product trends to make data-driven business decisions.
+- A Retail store business with a variety of products wants to analyze its sales performance, customer purchasing behaviour, and product trends to make data-driven business decisions.
 
 ---
 
